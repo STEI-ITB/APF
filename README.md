@@ -16,5 +16,5 @@ This repo will use **Open vSwitch 2.9.2** and **DPDK 17.11**
 
 #TODO:
 
-[ ] Create script for non-Ubuntu installation
-[ ] Edit grub file automatically with `perl` or `sed`
+- [ ] Create script for non-Ubuntu installation	
+- [ ] Edit grub file automatically with `perl` or `sed`
